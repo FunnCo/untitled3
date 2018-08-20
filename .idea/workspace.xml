@@ -93,6 +93,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -169,12 +170,27 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1534765893396</updated>
-      <workItem from="1534765897442" duration="5658000" />
+      <workItem from="1534765897442" duration="5829000" />
     </task>
+    <task id="LOCAL-00001" summary="Тест на корректность скобок">
+      <created>1534772023984</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1534772023984</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Тест на корректность скобок">
+      <created>1534772059714</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1534772059714</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5658000" />
+    <option name="totallyTimeSpent" value="5829000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
@@ -216,6 +232,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Тест на корректность скобок" />
+    <option name="LAST_COMMIT_MESSAGE" value="Тест на корректность скобок" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
